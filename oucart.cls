@@ -12,9 +12,9 @@
 
 \RequirePackage{ctex}
 \RequirePackage{CJKutf8}
-\setCJKmainfont{SimSun}
-\setCJKsansfont{SimHei}
-\setCJKmonofont{FangSong}
+\setCJKmainfont{WenQuanYi Zen Hei}
+\setCJKsansfont{WenQuanYi Micro Hei}
+\setCJKmonofont{WenQuanYi Micro Hei Mono}
 
 \RequirePackage{setspace}
 \RequirePackage{titlesec}
